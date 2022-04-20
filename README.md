@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently research assistant on [**HCMIU CVIP**](https://hcmiu-cvip.github.io/)
+- 🌱 My research interests focus on **Computer Vision, Deep learning and Data mining**
+
+<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=nguyenquivinhquang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
