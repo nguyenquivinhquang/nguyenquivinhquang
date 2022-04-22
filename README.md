@@ -18,3 +18,12 @@ Here are some ideas to get you started:
 - 🌱 I'm mostly studying and doing researches about ML/DL/AI.
 
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=nguyenquivinhquang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
+
+<a>
+    <img
+         align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquivinhquang&hide=javascript,html,C,CSS&langs_count=10&theme=dracula&layout=compact"
+        width="500"
+        height="250"
+    />
+</a>
