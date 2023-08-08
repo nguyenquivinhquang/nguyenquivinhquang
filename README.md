@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently research assistant at [**HCMIU CVIP**](https://hcmiu-cvip.github.io/)
-- 🌱 I'm mostly studying and doing researches about DL/AI/CV.
+- 🔭 I’m currently AI Research Resident at [**VinAI**](https://www.vinai.io/ai-residency/)
+- 🌱 I'm mostly studying and doing research about DL/AI/CV.
 
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=nguyenquivinhquang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
