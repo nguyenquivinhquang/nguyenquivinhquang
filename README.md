@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently AI Research Resident at [**VinAI**](https://www.vinai.io/ai-residency/)
-- 🌱 I'm working on Human mesh recovery.
+- 🌱 I'm interested in Human mesh recovery.
 
-<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=nguyenquivinhquang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
-
-<a>
-    <img
-         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquivinhquang&hide=javascript,html,C,CSS&langs_count=10&theme=dracula&layout=compact"
-        width="500"
-        height="250"
-    />
-</a>
+![](https://komarev.com/ghpvc/?username=nguyenquivinhquang&color=blueviolet&style=flat-square)
